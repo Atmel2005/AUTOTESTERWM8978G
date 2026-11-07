@@ -1,0 +1,6 @@
+# Публичный репозиторий: только прошивка ESP32 + манифест моделей.
+# LLM-модель (.task ~500МБ) хранится в GitHub Releases, не в git.
+*
+!.gitignore
+!AUTOTESTERWM8978G.ino
+!manifest.json
