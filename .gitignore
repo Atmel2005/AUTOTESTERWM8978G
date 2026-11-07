@@ -1,6 +1,7 @@
-# Публичный репозиторий: только прошивка ESP32 + манифест моделей.
+# Публичный репозиторий: прошивка ESP32 (merged.bin) + схема + манифест моделей.
 # LLM-модель (.task ~500МБ) хранится в GitHub Releases, не в git.
 *
 !.gitignore
-!AUTOTESTERWM8978G.ino
+!AUTOTESTERWM8978G.ino.merged.bin
+!AUTOTESTERWM8978G.jpg
 !manifest.json
